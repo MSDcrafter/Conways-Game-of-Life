@@ -3,8 +3,7 @@ from random import *
 import io
 import os.path
 
-if __name__=="__main__":
-    
+def main():
     w = 64
     h = 64
     z = 8
@@ -181,6 +180,7 @@ if __name__=="__main__":
     #pygame.rect(0,0,16,16)
     
     
-    
+if __name__=="__main__":
+    main()
     
     
